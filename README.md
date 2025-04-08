@@ -1,2 +1,2 @@
 # utenti-domain
-Progetto filale stage 2025
+Gestisce l'autenticazione, l'autorizzazione e i profili utente.
