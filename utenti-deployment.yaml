@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: utenti
-          image: daDefinire/utenti:latest
+          image: utenti:latest
           ports:
             - containerPort: 8080
 
